@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringLooper", "StringLooper\StringLooper.csproj", "{402127D6-FB73-4CC4-869F-EFFC5AC78B95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{402127D6-FB73-4CC4-869F-EFFC5AC78B95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{402127D6-FB73-4CC4-869F-EFFC5AC78B95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{402127D6-FB73-4CC4-869F-EFFC5AC78B95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{402127D6-FB73-4CC4-869F-EFFC5AC78B95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97831769-490B-4C12-8186-5625D08E50C3}
+	EndGlobalSection
+EndGlobal
